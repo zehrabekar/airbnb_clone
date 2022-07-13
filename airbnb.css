@@ -1,0 +1,49 @@
+.container {
+  width: 1743px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.links {
+  border: 1px solid;
+  text-align: center;
+  border-radius: 30px;
+  display: inline;
+  margin-left: 520px;
+  padding: 15px;
+  padding-bottom: 15px;
+  border-color: #d9d4d2
+  
+}
+
+.left-links {
+  text-align: right;
+  padding-left: 340px;
+  display: inline;
+  
+}
+.style {
+  color:  #d9d4d2;
+  display: inline;
+}
+
+a {
+  margin-left: 15px;
+  margin-right: 15px;
+  color:black ;
+  font-size: 17px;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+  text-decoration: none;
+}
+
+header{
+  margin-top: 20px;
+  
+}
+
+hr {
+margin-top: 42px;
+}
+
+
+
