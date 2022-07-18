@@ -63,8 +63,54 @@ img {
 .pictures {
   margin-right: 5px;
   margin-bottom: 60px;
-  font-family: inherit;
 }
+
+.footer {
+  position: fixed;
+  left: 0px; 
+  right:0px;
+  background-color: white;
+  bottom: 0px;
+  width: 100%;
+  height: 60px;
+  font-family:inherit;
+  font-size: 23px;
+  padding-top: 15px;
+  color:#736c6c;
+  border: 1px solid;
+  border-color: #736c6c;
+}
+
+.footer-p {
+  display: inline;
+  font-size: 21px;
+  padding-left: 100px;
+  
+}
+.footer-links {
+  margin-left: 0px;
+  margin-right: 2px;
+  color:#736c6c;
+  
+}
+
+.footer-right-links {
+  color:#4f4949;
+  font-weight:bold ;
+  font-size: 18px;
+  margin: 0px;
+  margin-right: 10px; 
+}
+.footer-left {
+  display: inline;
+  margin-right: 800px;
+}
+.footer-right{
+  display: inline;
+}
+
+
+
 
 
 
